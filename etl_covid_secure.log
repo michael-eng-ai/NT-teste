@@ -1,0 +1,9 @@
+2024-08-13 08:44:06,904:INFO:Iniciando extração de dados de /Users/michaelsantos/Documents/NT-teste/data/raw/aggregated.csv
+2024-08-13 08:44:06,904:ERROR:Erro ao extrair dados: module 'pyarrow' has no attribute 'csv'
+2024-08-13 08:44:06,905:ERROR:Erro no processo ETL: module 'pyarrow' has no attribute 'csv'
+2024-08-13 08:57:30,253:INFO:Iniciando extração de dados de /Users/michaelsantos/Documents/NT-teste/data/raw/aggregated.csv
+2024-08-13 08:57:30,253:ERROR:Erro ao extrair dados: module 'pyarrow' has no attribute 'csv'
+2024-08-13 08:57:30,253:ERROR:Erro no processo ETL: module 'pyarrow' has no attribute 'csv'
+2024-08-13 09:02:55,610:INFO:Iniciando extração de dados de /Users/michaelsantos/Documents/NT-teste/data/raw/aggregated.csv
+2024-08-13 09:02:55,610:ERROR:Erro ao extrair dados: module 'pyarrow' has no attribute 'csv'
+2024-08-13 09:02:55,610:ERROR:Erro no processo: module 'pyarrow' has no attribute 'csv'

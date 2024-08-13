@@ -1,0 +1,12 @@
+2024-08-13 07:49:57,570:INFO:Iniciando extração de dados de /Users/michaelsantos/Documents/NT-teste/data/raw/aggregated.csv
+2024-08-13 07:49:59,887:INFO:Dados extraídos com sucesso
+2024-08-13 07:49:59,887:INFO:Iniciando transformação dos dados
+2024-08-13 07:51:39,875:ERROR:Erro ao transformar dados: name 'Window' is not defined
+2024-08-13 07:51:39,876:ERROR:Erro no processo ETL: name 'Window' is not defined
+2024-08-13 07:51:40,223:INFO:Closing down clientserver connection
+2024-08-13 07:54:02,683:INFO:Iniciando extração de dados de /Users/michaelsantos/Documents/NT-teste/data/raw/aggregated.csv
+2024-08-13 07:54:05,166:INFO:Dados extraídos com sucesso
+2024-08-13 07:54:05,166:INFO:Iniciando transformação dos dados
+2024-08-13 07:55:55,905:ERROR:Erro ao transformar dados: name 'Window' is not defined
+2024-08-13 07:55:55,906:ERROR:Erro no processo ETL: name 'Window' is not defined
+2024-08-13 07:55:56,353:INFO:Closing down clientserver connection

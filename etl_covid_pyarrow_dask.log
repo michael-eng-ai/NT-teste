@@ -1,0 +1,3 @@
+2024-08-13 08:35:08,888:INFO:Iniciando extração de dados de /Users/michaelsantos/Documents/NT-teste/data/raw/aggregated.csv
+2024-08-13 08:35:08,888:ERROR:Erro ao extrair dados: module 'pyarrow' has no attribute 'csv'
+2024-08-13 08:35:08,888:ERROR:Erro no processo ETL: module 'pyarrow' has no attribute 'csv'
